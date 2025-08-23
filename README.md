@@ -17,6 +17,11 @@ An intelligent color palette generator powered by AI. This web app helps designe
 - ⚡ Instant feedback via toast notifications
 - 📱 Responsive design for mobile and desktop
 
+
+## Output
+<img width="500" height="500" alt="Screenshot 2025-08-23 203019" src="https://github.com/user-attachments/assets/28e5c528-de18-413c-a2ee-22d11f0769f4" />
+
+
 ## 🧠 How It Works
 
 1. User enters a descriptive prompt.
@@ -32,7 +37,6 @@ cd ai-color-palette-generator
 npm install
 npm run dev
 
-<img width="500" height="500" alt="Screenshot 2025-08-23 203019" src="https://github.com/user-attachments/assets/28e5c528-de18-413c-a2ee-22d11f0769f4" />
 
 
 
