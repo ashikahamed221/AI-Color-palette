@@ -20,6 +20,8 @@ An intelligent color palette generator powered by AI. This web app helps designe
 
 ## Output
 <img width="500" height="500" alt="Screenshot 2025-08-23 203019" src="https://github.com/user-attachments/assets/28e5c528-de18-413c-a2ee-22d11f0769f4" />
+<img width="500" height="500" alt="Screenshot 2025-08-23 205211" src="https://github.com/user-attachments/assets/b7d64d29-addd-44a8-b0e4-ae34dee40fa9" />
+
 
 
 ## 🧠 How It Works
