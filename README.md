@@ -13,7 +13,6 @@ An intelligent color palette generator powered by AI. This web app helps designe
 
 - 🔍 Generate color palettes from text prompts (e.g., "sunset on a beach", "retro neon vibes")
 - 🎨 Display HEX codes with preview swatches
-- 📋 Copy-to-clipboard functionality for each color
 - ⚡ Instant feedback via toast notifications
 - 📱 Responsive design for mobile and desktop
 
