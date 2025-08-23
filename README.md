@@ -34,6 +34,6 @@ npm run dev
 
 <img width="500" height="500" alt="Screenshot 2025-08-23 203019" src="https://github.com/user-attachments/assets/28e5c528-de18-413c-a2ee-22d11f0769f4" />
 
-<img width="500" height="500" alt="Screenshot 2025-08-23 205211" src="https://github.com/user-attachments/assets/9de87b18-8f1e-4e4f-9a80-433017f8f2d4" />
+
 
 
